@@ -1,0 +1,14 @@
+.container h1 {
+  font-size: 80px;
+  font-family: "Titan One", sans-serif;
+  font-weight: 700;
+}
+.container button {
+  height: 100px;
+  background-color: blue;
+  transition: all;
+  cursor: auto;
+}
+.container button:hover {
+  background-color: green;
+}
